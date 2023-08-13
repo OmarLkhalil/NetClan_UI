@@ -1,4 +1,4 @@
-# NetClan Explore App
+NetClan Explore App
 
 Welcome to the NetClan Explore App repository! This app is designed to facilitate task assignment and management for Black Coffer.
 
@@ -7,15 +7,19 @@ Welcome to the NetClan Explore App repository! This app is designed to facilitat
 - Built using Kotlin, XML, and Fragments.
 - Utilizes Navigation Component with Bottom Navigation View for seamless navigation.
 - Incorporates Top App Bar for easy access to essential actions.
-- Implements Tab Layout for Explore and Refine screens.
+- Implements Tab Layout for Explore screen with 3 fragments ( indvidual - professional - merchant )
 
 ## Screenshots
 
-### Explore Screen
-![Explore Screen](https://raw.githubusercontent.com/OmarLkhalil/NetClan_UI/master/screenshot/s1a.png)
+<details>
+  <summary>Explore Screen</summary>
+  <img src="https://raw.githubusercontent.com/OmarLkhalil/NetClan_UI/master/screenshot/s1a.png" alt="Explore Screen" width="300"/>
+</details>
 
-### Refine Screen
-![Refine Screen](https://raw.githubusercontent.com/OmarLkhalil/NetClan_UI/master/screenshot/s2a.png)
+<details>
+  <summary>Refine Screen</summary>
+  <img src="https://raw.githubusercontent.com/OmarLkhalil/NetClan_UI/master/screenshot/s2a.png" alt="Refine Screen" width="300"/>
+</details>
 
 ## Installation
 
