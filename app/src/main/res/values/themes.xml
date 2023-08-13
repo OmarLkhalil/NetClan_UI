@@ -1,0 +1,18 @@
+<resources
+    >
+    <style name="Theme.Netclan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#0e2e44</item>
+    </style>
+
+    <style name="Theme.Netclann" parent="Theme.Netclan" />
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="textcolorwhite">
+        <item name="android:editTextColor">#a3b0bb</item>
+        <item name="android:textColorHint">#a3b0bb</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+</resources>

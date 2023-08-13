@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetClan</string>
+    <string name="title_home">Explore</string>
+    <string name="title_network">Network</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_profile">Contacts</string>
+    <string name="title_services">Services</string>
+</resources>
